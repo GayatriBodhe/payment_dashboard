@@ -80,8 +80,8 @@ Solution: Updated api_service.dart to map JSON to Payment models.
 
 
 Screenshots
-Login page: ![login](https://github.com/user-attachments/assets/1859c143-76bf-4115-8155-555f32a163a6)
-Post-Logout page: ![login_admin](https://github.com/user-attachments/assets/93cc503c-05a9-4f92-b5da-73e656797751)
+Post-Logout page: ![login](https://github.com/user-attachments/assets/1859c143-76bf-4115-8155-555f32a163a6)
+Login page: ![login_admin](https://github.com/user-attachments/assets/93cc503c-05a9-4f92-b5da-73e656797751)
 Dashboard page: ![dashboard](https://github.com/user-attachments/assets/47bef746-ca55-4cb6-b9ee-7383fe6b3a6c)
 
 
