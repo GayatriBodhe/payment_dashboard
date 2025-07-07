@@ -74,10 +74,6 @@ Issue: Backend connectivity errors (ClientException: Failed to fetch).
 Solution: Adjusted API URL to localhost:3000 and added CORS configuration.
 
 
-Issue: 401 Unauthorized errors on /payments.
-Solution: Temporarily bypassed authentication guards for testing.
-
-
 Issue: Type errors (e.g., JsonMap vs. Payment).
 Solution: Updated api_service.dart to map JSON to Payment models.
 
@@ -90,12 +86,6 @@ Login page
 Dashboard with payments and stats
 Post-logout screen
 
-
-
-Submission Notes
-
-Submitted post-deadline (after 11:59 PM IST, July 07, 2025) due to persistent errors (e.g., 404 on /payments/stats, TypeError resolution).
-The project is functional with mock data; further refinements (e.g., real database, JWT validation) are planned for Day 3.
 
 Author
 
